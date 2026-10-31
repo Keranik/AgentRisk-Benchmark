@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- The canonical board data lives one folder up (src/board/board.json) and
+       stays the single source of truth. It is linked here, never copied into
+       this project, and flows to consumers' output so every loader reads the
+       same file. -->
+  <ItemGroup>
+    <Content Include="..\board.json" Link="board.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

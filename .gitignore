@@ -1,0 +1,12 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+TestResults/
+
+# Godot editor cache (per-machine)
+.godot/
+
+# Output of the --screenshot mode, when pointed inside the repository
+screenshots/

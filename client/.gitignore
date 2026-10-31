@@ -1,0 +1,11 @@
+# Godot editor/build state: regenerated locally, and .import files carry
+# this machine's paths, so none of it is source.
+.godot/
+.mono/
+
+# Export output: the folder itself is kept (a headless export fails if
+# the preset's path does not exist yet); what the export writes is not.
+# build/.gdignore keeps the editor from scanning an export into the
+# next one (its data folder carries .json files, which Godot packs).
+build/windows/*
+!build/windows/.gitkeep

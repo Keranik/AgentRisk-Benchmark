@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\board\AgentRisk.Board\AgentRisk.Board.csproj" />
+    <ProjectReference Include="..\..\engine\AgentRisk.Engine\AgentRisk.Engine.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- The host test suite inspects replay internals that are
+         not part of the library's public surface. -->
+    <InternalsVisibleTo Include="AgentRisk.Host.Tests" />
+  </ItemGroup>
+
+</Project>

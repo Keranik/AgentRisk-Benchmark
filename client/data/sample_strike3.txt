@@ -1,0 +1,5 @@
+Choose one, reply with its number:
+1) ATK ONT QUE RND
+2) ATK ONT QUE ALL
+3) ATK WUS EUS RND
+4) ENDATK

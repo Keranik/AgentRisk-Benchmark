@@ -1,0 +1,18 @@
+<Project Sdk="Godot.NET.Sdk/4.7.2">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- The unified app hosts games in-process through the shared host
+         library: session, host controls, suspend/resume, feed. -->
+    <ProjectReference Include="..\src\host\AgentRisk.Host\AgentRisk.Host.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Unit tests kept under tests/ build in their own assembly; the game
+         assembly must never compile them (or their fixtures) itself. -->
+    <Compile Remove="tests/**/*.cs" />
+    <None Remove="tests/**/*" />
+  </ItemGroup>
+</Project>

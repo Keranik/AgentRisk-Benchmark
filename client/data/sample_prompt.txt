@@ -1,0 +1,62 @@
+DECISION D-215 | You are YEL | Round 12 | Phase ATK
+--- SUMMARY ---
+YEL ATK ONT>QUE RND
+RND 3v2 A[5 3 2] D[4 4] A-1 D-1
+--- BOARD ---
+BOARD round=12 turn=YEL phase=ATK next_trade=15
+[NA bonus=5]
+ALA YEL 2
+ALB YEL 2
+CAM YEL 2
+EUS YEL 2
+GRE YEL 2
+NWT YEL 2
+ONT YEL 5
+QUE RED 2
+WUS YEL 2
+[SA bonus=2]
+ARG YEL 2
+BRA YEL 2
+PER YEL 2
+VEN YEL 2
+[EU bonus=5]
+GBR RED 2
+ICE YEL 2
+NEU RED 2
+SCA RED 2
+SEU RED 2
+UKR RED 2
+WEU RED 2
+[AF bonus=3]
+CON RED 2
+EAF RED 2
+EGY RED 2
+MAD RED 2
+NAF RED 2
+SAF RED 2
+[AS bonus=7]
+AFG BLU 2
+CHN BLU 2
+IND BLU 2
+IRK BLU 2
+JPN GRN 2
+KAM GRN 2
+MEA GRN 2
+MON BLU 2
+SIA BLU 2
+SIB BLU 2
+URA BLU 2
+YAK BLU 2
+[AU bonus=2]
+EAU GRN 2
+INO GRN 2
+NGU GRN 2
+WAU GRN 2
+PLAYERS: RED terr=13 cards=1 | BLU terr=9 cards=0 | GRN terr=7 cards=3 | YEL terr=13 cards=2
+YOUR HAND: QUE-CAV WLD
+REIN OWED: none
+--- DECISION ---
+Attack ONT > QUE: roll the next round with 1 to 3 dice, or stop this attack.
+Reply with exactly one line:
+  DICE <n>
+  STOP

@@ -1,0 +1,58 @@
+BRIEFING | You are RED in a game of Classic Risk.
+Mode: Duo. Seats: RED BLU, plus the REB faction.
+Starting armies: 40 per player; the REB faction starts with 60.
+Victory: eliminate the other player. The game ends the moment one of the two players holds no territory; the REB faction does not have to be defeated.
+Continents (bonus for holding every territory of the continent at the start of your turn):
+[NA] North America, bonus 5: ALA ALB CAM EUS GRE NWT ONT QUE WUS
+[SA] South America, bonus 2: ARG BRA PER VEN
+[EU] Europe, bonus 5: GBR ICE NEU SCA SEU UKR WEU
+[AF] Africa, bonus 3: CON EAF EGY MAD NAF SAF
+[AS] Asia, bonus 7: AFG CHN IND IRK JPN KAM MEA MON SIA SIB URA YAK
+[AU] Australia, bonus 2: EAU INO NGU WAU
+Territories and their borders:
+ALA Alaska (NA) borders: ALB KAM NWT
+ALB Alberta (NA) borders: ALA NWT ONT WUS
+CAM Central America (NA) borders: EUS VEN WUS
+EUS Eastern United States (NA) borders: CAM ONT QUE WUS
+GRE Greenland (NA) borders: ICE NWT ONT QUE
+NWT Northwest Territory (NA) borders: ALA ALB GRE ONT
+ONT Ontario (NA) borders: ALB EUS GRE NWT QUE WUS
+QUE Quebec (NA) borders: EUS GRE ONT
+WUS Western United States (NA) borders: ALB CAM EUS ONT
+ARG Argentina (SA) borders: BRA PER
+BRA Brazil (SA) borders: ARG NAF PER VEN
+PER Peru (SA) borders: ARG BRA VEN
+VEN Venezuela (SA) borders: BRA CAM PER
+GBR Great Britain (EU) borders: ICE NEU SCA WEU
+ICE Iceland (EU) borders: GBR GRE SCA
+NEU Northern Europe (EU) borders: GBR SCA SEU UKR WEU
+SCA Scandinavia (EU) borders: GBR ICE NEU UKR
+SEU Southern Europe (EU) borders: EGY MEA NAF NEU UKR WEU
+UKR Ukraine (EU) borders: AFG MEA NEU SCA SEU URA
+WEU Western Europe (EU) borders: GBR NAF NEU SEU
+CON Congo (AF) borders: EAF NAF SAF
+EAF East Africa (AF) borders: CON EGY MAD MEA NAF SAF
+EGY Egypt (AF) borders: EAF MEA NAF SEU
+MAD Madagascar (AF) borders: EAF SAF
+NAF North Africa (AF) borders: BRA CON EAF EGY SEU WEU
+SAF South Africa (AF) borders: CON EAF MAD
+AFG Afghanistan (AS) borders: CHN IND MEA UKR URA
+CHN China (AS) borders: AFG IND MON SIA SIB URA
+IND India (AS) borders: AFG CHN MEA SIA
+IRK Irkutsk (AS) borders: KAM MON SIB YAK
+JPN Japan (AS) borders: KAM MON
+KAM Kamchatka (AS) borders: ALA IRK JPN MON YAK
+MEA Middle East (AS) borders: AFG EAF EGY IND SEU UKR
+MON Mongolia (AS) borders: CHN IRK JPN KAM SIB
+SIA Siam (AS) borders: CHN IND INO
+SIB Siberia (AS) borders: CHN IRK MON URA YAK
+URA Ural (AS) borders: AFG CHN SIB UKR
+YAK Yakutsk (AS) borders: IRK KAM SIB
+EAU Eastern Australia (AU) borders: NGU WAU
+INO Indonesia (AU) borders: NGU SIA WAU
+NGU New Guinea (AU) borders: EAU INO WAU
+WAU Western Australia (AU) borders: EAU INO NGU
+Cards: a set is 3 of a kind, one of each type (INF infantry, CAV cavalry, ART artillery), or any 3 cards including a wild (WLD).
+Trade-in values by set number traded in the game: set#1 = 4, set#2 = 6, set#3 = 8, set#4 = 10, set#5 = 12, set#6 = 15, then +5 per set.
+If a traded card pictures a territory you own, you gain 2 extra armies that must be placed on that territory.
+Your card faces are private to you; every player's card count is public.
